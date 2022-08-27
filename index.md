@@ -16,8 +16,9 @@ title: Malo Ancian CV
 
 ## Expérience Professionnelle
 
-* • Un stage dans l'export de poisson d'aquarium, endémique à la Nouvelle-Calédonie \- `2016`
-* • 3 ans d'alternance au sein de la CCI, dans une épicerie. J'étais affecté au rayon fruits et légumes, duquel je m'occupais de l'aspect vente, animation et gestion. Le temps d'entreprise représentait environ 50% de l'alternance. Suite à l'obtention de mon BAC, j'ai poursuivi pendant 1 an dans l'entreprise en CDI - `2018 - 2020`
+* • Un stage dans l'export de poisson d'aquarium, endémique à la Nouvelle-Calédonie \- `2015`
+* • 3 ans d'alternance au sein de la CCI, dans une épicerie. J'étais affecté au rayon fruits et légumes, duquel je m'occupais de l'aspect vente, animation et gestion. Le temps d'entreprise représentait environ 50% de l'alternance - `2018 - 2020`
+* • Un an dans l'épicerie de mon alternance en CDI, suite à l'obtention de mon BAC - `2021`
 * • Pendant le second confinement j'ai monté de A à Z un site sur l'évolution du COVID-19 (nombre de cas, ...) au tout début de l'épidémie. Le gouvernement à l'époque n'avait pas encore mis en place de site permettant une bonne visualisation. C'était une super opportunité et expérience. Par la suite ils ont créé un site plus détaillé - `2021`
 
 
