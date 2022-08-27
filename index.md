@@ -3,6 +3,20 @@ layout: cv
 title: Malo Ancian CV
 ---
 # Malo ANCIAN
+
+## Acceder à ce CV
+
+* • QR coode: <img style="vertical-align:middle" src="/media/qr_code.png" alt="qrcode">
+* • Url: https://reusteur73.github.io/cv/
+* <div class="box">
+    <img src="/media/qr_code.png">
+    <span style="">Works.</span>
+  </div>
+ * <div>
+    <img style="vertical-align:middle" src="/media/qr_code.png">
+    <span style="vertical-align:middle">Perfectly centered</span>
+  </div>
+
 ## Diplômes
 
 * • Brevet des collèges - Jean Mariotti - `Nouvelle-Calédonie - 2015`
@@ -21,3 +35,10 @@ title: Malo Ancian CV
 * • J'ai toujours étais passionné par l'informatique, c'est un domaine que j'adore approfondir !
 * • J'aime également le sport, je fais notament de la plance à voile et du vélo, se balader dans la foret.
 * • Je suis également passionné par la nature, j'aime de plus en plus cultivés quelques légumes (tomates, poivrons, aubergines, touts les arromatiques, les salades et pleins d'autres ! J'ai notament commencer l'hydroponie, et j'adore ce mode de culture !
+
+<style>
+.box {
+   display: flex;
+   align-items:center;
+}
+</style>
