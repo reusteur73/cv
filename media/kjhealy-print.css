@@ -189,6 +189,10 @@ strong {
 	visibility: hidden;
 }
 
+.box {
+   display: flex;
+   align-items:center;
+}
 
 
 
