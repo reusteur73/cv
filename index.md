@@ -5,17 +5,10 @@ title: Malo Ancian CV
 # Malo ANCIAN
 
 ## Acceder à ce CV
+<pre>
+• QR coode: <img style="vertical-align:middle" src="https://raw.githubusercontent.com/reusteur73/cv/master/media/qr_code.png" alt="qrcode">        • Url: [https://reusteur73.github.io/cv/](https://reusteur73.github.io/cv/)
+</pre>
 
-* • QR coode: <img style="vertical-align:middle" src="https://raw.githubusercontent.com/reusteur73/cv/master/media/qr_code.png" alt="qrcode">
-* • Url: https://reusteur73.github.io/cv/
-* <div class="box">
-    <img src="https://raw.githubusercontent.com/reusteur73/cv/master/media/qr_code.png">
-    <span style="">Works.</span>
-  </div>
- * <div>
-    <img style="vertical-align:middle" src="https://raw.githubusercontent.com/reusteur73/cv/master/media/qr_code.png">
-    <span style="vertical-align:middle">Perfectly centered</span>
-  </div>
 
 ## Diplômes
 
