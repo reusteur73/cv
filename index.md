@@ -2,7 +2,7 @@
 layout: cv
 title: Malo Ancian CV
 ---
-# Malo ANCIAN
+# Malo ANCIANs
 ## Diplômes
 
 - Brevet des collèges - Jean Mariotti - `Nouvelle-Calédonie - 2015`
